@@ -1,0 +1,4 @@
+Python is an interpreted object-oriented programming language. It is open source, so the interpreter and source are freely available and distributable in binary form.
+The intermediate courses you see here will teach you to improve your code. You'll dive deeper into unit testing and debugging, as well as learn some of the more advanced features of the Python language.
+ Our advanced Python track will show you how you can apply your newfound skill. You'll learn full-stack web 
+development, as well as some techniques that will help you implement advanced frameworks.

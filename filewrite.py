@@ -1,0 +1,5 @@
+f = open('wasteland.txt', mode='wt', encoding='utf-8')
+f.write('Python is an interpreted object-oriented programming language. ')
+f.write('It is open source, so the interpreter and source are freely available and distributable in binary form.\n')
+f.write('The intermediate courses you see here will teach you to improve your code. ')
+f.close()
